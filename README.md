@@ -1,6 +1,6 @@
-## Welcome, I'm Vincent!
+# Welcome, I'm Vincent!
 
-**I enjoy:**
+**I really enjoy:**
 - React :fire:
 - NestJS :heart_eyes_cat:
 - TypeScript :eyeglasses:
