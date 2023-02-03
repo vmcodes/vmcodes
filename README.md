@@ -1,4 +1,4 @@
-# Welcome, I'm Vincent!
+## Welcome, I'm Vincent!
 
 **I enjoy:**
 - React :fire:
