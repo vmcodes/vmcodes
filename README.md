@@ -2,7 +2,7 @@
 
 ## About Me
 - Introdued to engineering at an early age via AutoCad and MicroStation.
-- Installed Ubuntu after graduating college (the first time :satisfied:) and have remained in tech ever since.
+- Installed Ubuntu after graduating college (the first time) and have remained in tech ever since.
 - After persuing a BA in Psychology, I received additional degrees in Computer Programming and Technology Management.
 - Actively coding web and mobile apps, playing on servers, and learning about Web3.
 - Enjoys music, movies, and open source coding when possible.
