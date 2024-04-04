@@ -1,7 +1,3 @@
-# Vincent
-
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmcodes&layout=compact&theme=shades-of-purple)
 
 <h2>Connect With Me </h3>
