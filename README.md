@@ -4,3 +4,5 @@
  <p>
   <a href="https://vmcodes.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"></a> 
 </p>
+
+Developer for Ducky Ritual NFTs for the founder of $DUCKY token, Blowfish ticket #: 2664.
