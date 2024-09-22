@@ -26,6 +26,6 @@ I'm a passionate fullstack web3 developer with expertise in React, TypeScript, a
 
 - [Personal Website](https://vmcodes.com)
 - [Business Inquiries](https://www.decentralbros.xyz)
-- [Telegram](https://t.me/vinny_official)
+- [Telegram](https://t.me/zeroXvinny)
 
 Feel free to reach out if you'd like a free web3 [build consultation](https://calendly.com/decentral-bros/30min), to collaborate on an open-source project, or just chat about web3 and blockchain technology!
