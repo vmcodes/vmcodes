@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Vincent.
-I'm a passionate fullstack web3 developer with expertise in React, TypeScript, and NestJS. I love building decentralized applications and contributing to the blockchain ecosystem.
+I'm a passionate fullstack developer with expertise in React, TypeScript, and NestJS. I love building decentralized applications and contributing to the blockchain ecosystem.
 
 ## 🚀 Skills
 - Frontend: React, TypeScript, Next.js, Wagmi, Ethers.js
