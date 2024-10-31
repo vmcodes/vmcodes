@@ -17,7 +17,7 @@ I'm a passionate fullstack developer with expertise in React, TypeScript, and Ne
 
 ## 🌟 Featured Project
 
-- [IslandSwap](https://github.com/decentralbros/islandswap) - A fully decentralized exchange built with Next.js and NestJS.
+- [DBRO Swap](https://github.com/decentralbros/dbro-swap) - A fully decentralized exchange built with Next.js and NestJS.
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmcodes&layout=compact&theme=shades-of-purple)
