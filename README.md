@@ -15,17 +15,5 @@ I'm a passionate fullstack developer with expertise in React, TypeScript, and Ne
 - Utilized smart contracts for various use cases, including NFTs and DeFi protocols
 - Contributed to open-source blockchain projects
 
-## 🌟 Featured Project
-
-- [DBRO Swap](https://github.com/decentralbros/dbro-swap) - A fully decentralized exchange built with Next.js and NestJS.
-
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmcodes&layout=compact&theme=shades-of-purple)
-
-## 📫 Let's Connect
-
-- [Personal Website](https://vmcodes.com)
-- [Business Inquiries](https://www.decentralbros.xyz)
-- [Telegram](https://t.me/zeroXvinny)
-
-Feel free to reach out if you'd like a free web3 [build consultation](https://calendly.com/decentral-bros/30min), to collaborate on an open-source project, or just chat about web3 and blockchain technology!
