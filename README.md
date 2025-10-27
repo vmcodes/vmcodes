@@ -14,6 +14,3 @@ I'm a passionate fullstack developer with expertise in React, TypeScript, and Ne
 - Built scalable backend services with NestJS for web3 applications
 - Utilized smart contracts for various use cases, including NFTs and DeFi protocols
 - Contributed to open-source blockchain projects
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmcodes&layout=compact&theme=shades-of-purple)
